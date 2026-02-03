@@ -1,0 +1,30 @@
+{
+    "siguiente_id": 6,
+    "tareas": [
+        {
+            "id": 1,
+            "texto": "Tarea 1",
+            "hecho": true
+        },
+        {
+            "id": 2,
+            "texto": "Tarea 2",
+            "hecho": true
+        },
+        {
+            "id": 3,
+            "texto": "Tarea 3",
+            "hecho": false
+        },
+        {
+            "id": 4,
+            "texto": "Tarea 4",
+            "hecho": true
+        },
+        {
+            "id": 5,
+            "texto": "Tarea5",
+            "hecho": false
+        }
+    ]
+}
